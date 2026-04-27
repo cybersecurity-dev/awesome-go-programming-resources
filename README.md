@@ -1,2 +1,1 @@
-# awesome-go-programming-resources
-Awesome GO Programming Resources
+# Awesome GO Programming Resources
