@@ -23,10 +23,15 @@
 </p>
 
 ## 📖 Contents
+- [Books](#books)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+
+## Books
+
+## Videos
 
 ##
 
@@ -38,5 +43,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-go-programming-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-go-programming-resources-)
